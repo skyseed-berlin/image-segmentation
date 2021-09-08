@@ -1,0 +1,101 @@
+[{
+"id": "daf22862-11e9-496a-b0be-3d03127de41c",
+"color": "#d4dd80",
+"png_index": [
+212,
+221,
+128
+],
+"name": "apricot_jellies",
+"type": "object"
+}, {
+"id": "16dd5bbc-385f-46f1-be3c-b83955ed13f4",
+"color": "#9cfba4",
+"png_index": [
+156,
+251,
+164
+],
+"name": "bear",
+"type": "object"
+}, {
+"id": "cd2c57b4-d274-41e8-8e19-193adfae36b9",
+"color": "#4757fb",
+"png_index": [
+71,
+87,
+251
+],
+"name": "coin_candy",
+"type": "object"
+}, {
+"id": "ed678617-edca-43b0-ad60-7ab813974b60",
+"color": "#ffa457",
+"png_index": [
+255,
+164,
+87
+],
+"name": "cola bottle candies",
+"type": "object"
+}, {
+"id": "8f4f0a47-435d-420d-a51a-0812b1361712",
+"color": "#8000ff",
+"png_index": [
+128,
+0,
+255
+],
+"name": "dummies",
+"type": "object"
+}, {
+"id": "4c80b726-69f8-43e2-8bac-f7d7cec6bb88",
+"color": "#ff0000",
+"png_index": [
+255,
+0,
+0
+],
+"name": "riesen",
+"type": "object"
+}, {
+"id": "9fc544f0-7d77-4e05-866a-435166bcf25f",
+"color": "#ff572c",
+"png_index": [
+255,
+87,
+44
+],
+"name": "skittles",
+"type": "object"
+}, {
+"id": "d0df981f-5df4-474e-b6eb-163d5eff47b1",
+"color": "#0ea4f0",
+"png_index": [
+14,
+164,
+240
+],
+"name": "sourworms",
+"type": "object"
+}, {
+"id": "d4e37a11-81db-4bfd-8b61-6868a829dad7",
+"color": "#2adddd",
+"png_index": [
+42,
+221,
+221
+],
+"name": "tofifee",
+"type": "object"
+}, {
+"id": "1a2cade5-8202-4a22-ad56-682fbf802104",
+"color": "#63fbc3",
+"png_index": [
+99,
+251,
+195
+],
+"name": "vollmilch_brocken",
+"type": "object"
+}]

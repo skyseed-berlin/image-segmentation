@@ -1,0 +1,183 @@
+{"project_name": "Anwuchsbedingungen", "create_date": "2021-07-29T08:55:27Z", "export_format_version": "1.1", "export_date": "2021-09-03T12:11:58Z", "label_classes": [{
+"class_id": "0116108c-3114-488f-9fd7-4cc8ebe13ea9",
+"parent_class_id": null,
+"class_name": "Suitable",
+"class_type": "background",
+"color": "#1f78b44d",
+"norder": 10.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "08e17285-e199-40f7-8be7-185a149beae6",
+"parent_class_id": null,
+"class_name": "Not suitable",
+"class_type": "background",
+"color": "#e31a1c4d",
+"norder": 11.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "45c32380-49fb-414f-b733-d7d0b3086ad6",
+"parent_class_id": null,
+"class_name": "Forest",
+"class_type": "background",
+"color": "#4175054d",
+"norder": 12.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "d7bd3da0-289a-4081-9af1-a71d554c80c3",
+"parent_class_id": null,
+"class_name": "Light forest",
+"class_type": "background",
+"color": "#8af2094d",
+"norder": 13.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "33f56802-22e9-408f-99b4-7ad617e1916a",
+"parent_class_id": null,
+"class_name": "Roads & paths",
+"class_type": "background",
+"color": "#6a3d9a4d",
+"norder": 14.0,
+"icon_url": null,
+"attributes": []
+}, {
+"class_id": "f4fdd4eb-0b72-482a-af21-82c7ac91e998",
+"parent_class_id": null,
+"class_name": "Stumps & rocks",
+"class_type": "background",
+"color": "#ffff994d",
+"norder": 15.0,
+"icon_url": null,
+"attributes": []
+}], "images": [{
+"image_id": "b1821158-ca81-4325-9fc0-cb93fbd19b2b",
+"width": 3000,
+"height": 3500,
+"image_name": "bb_tiles.103.tif",
+"image_mode": "NRGBA",
+"dataset_name": "Default",
+"image_status": "TO REVIEW",
+"labels": [
+{
+"id": "c47f5813-4b39-4347-b8f5-34de816a89d7",
+"class_name": "Suitable",
+"bbox": [
+2740,
+2664,
+2858,
+2956
+],
+"polygon": [
+[
+2818,
+2666
+],
+[
+2818,
+2744
+],
+[
+2858,
+2796
+],
+[
+2842,
+2896
+],
+[
+2740,
+2956
+],
+[
+2744,
+2664
+]
+],
+"mask": null,
+"z_index": 0,
+"attributes": {}
+},
+{
+"id": "f8a3a79a-1e2c-4860-bfaa-a8c774eb9412",
+"class_name": "Forest",
+"bbox": [
+2742,
+2664,
+2998,
+3326
+],
+"polygon": [
+[
+2822,
+2664
+],
+[
+2992,
+2664
+],
+[
+2998,
+2990
+],
+[
+2742,
+3326
+],
+[
+2744,
+2958
+],
+[
+2840,
+2900
+],
+[
+2864,
+2790
+],
+[
+2818,
+2736
+]
+],
+"mask": null,
+"z_index": 2,
+"attributes": {}
+},
+{
+"id": "fbfe122d-b3c2-4b82-b823-bb03fc999794",
+"class_name": "Light forest",
+"bbox": [
+2744,
+2996,
+3000,
+3390
+],
+"polygon": [
+[
+2998,
+2996
+],
+[
+2744,
+3328
+],
+[
+2744,
+3390
+],
+[
+3000,
+3388
+]
+],
+"mask": null,
+"z_index": 1,
+"attributes": {}
+}
+],
+"tags": []
+}], "attributes": []}

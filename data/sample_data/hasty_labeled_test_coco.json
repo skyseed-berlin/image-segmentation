@@ -1,0 +1,125 @@
+{"info": {
+"year": 2021,
+"date_created": "2021-07-29T08:55:27Z",
+"version": "1.0",
+"description": "Anwuchsbedingungen None",
+"contributor": "",
+"url": "https://app.hasty.ai/projects/77f1392d-994e-49da-acf9-9055466fa88a"
+}, "licenses": [], "categories": [{
+"id": 1,
+"name": "Suitable",
+"supercategory": "background"
+}, {
+"id": 2,
+"name": "Not suitable",
+"supercategory": "background"
+}, {
+"id": 3,
+"name": "Forest",
+"supercategory": "background"
+}, {
+"id": 4,
+"name": "Light forest",
+"supercategory": "background"
+}, {
+"id": 5,
+"name": "Roads & paths",
+"supercategory": "background"
+}, {
+"id": 6,
+"name": "Stumps & rocks",
+"supercategory": "background"
+}], "images": [{
+"id": 1,
+"width": 3000,
+"height": 3500,
+"file_name": "bb_tiles.103.tif",
+"license": null,
+"flickr_url": "",
+"coco_url": null,
+"date_captured": "2021-07-29T15:41:29Z"
+}], "annotations": [{
+"id": 0,
+"image_id": 1,
+"category_id": 1,
+"segmentation": [
+[
+2818,
+2666,
+2818,
+2744,
+2858,
+2796,
+2842,
+2896,
+2740,
+2956,
+2744,
+2664
+]
+],
+"area": 24738.0,
+"bbox": [
+2740,
+2664,
+118,
+292
+],
+"iscrowd": 0
+}, {
+"id": 1,
+"image_id": 1,
+"category_id": 4,
+"segmentation": [
+[
+2998,
+2996,
+2744,
+3328,
+2744,
+3390,
+3000,
+3388
+]
+],
+"area": 58052.0,
+"bbox": [
+2744,
+2996,
+256,
+394
+],
+"iscrowd": 0
+}, {
+"id": 2,
+"image_id": 1,
+"category_id": 3,
+"segmentation": [
+[
+2822,
+2664,
+2992,
+2664,
+2998,
+2990,
+2742,
+3326,
+2744,
+2958,
+2840,
+2900,
+2864,
+2790,
+2818,
+2736
+]
+],
+"area": 99156.0,
+"bbox": [
+2742,
+2664,
+256,
+662
+],
+"iscrowd": 0
+}]}
